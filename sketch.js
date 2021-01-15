@@ -15,7 +15,7 @@ function setup(){
 
     ground = Bodies.rectangle(200,390,200,20,ground_options);
     World.add(world,ground);
-    box1 = new Box(200,300,50,50);
+     box1 = new Box(200,300,50,50);
     box2 = new Box(240,100,50,100);
 
 }
